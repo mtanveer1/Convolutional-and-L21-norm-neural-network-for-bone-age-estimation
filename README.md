@@ -49,6 +49,6 @@ For evaluation refer to the evaluation section.
 1. Winner_architecture.py (python env: 3.7 and tf-version==1.5) : To evaluate this model architecture on Testing(200 images) and Validation(1425 images) run Winner_architecture_evaluate.py. This will generate csv files (test.csv and val.csv) with the corresponding predictions.
 
 ---
-Please cite the following if you are using this code:
+## Please cite the following if you are using this code:
  
 M.A. Ganaie, Jha Rohan, Krish Agrawal, Rupal Shah, Anouck Girard, Josephine Kasa-Vubu, M. Tanveer (2023). Convolutional and $l_{21}$-norm neural network for bone age estimation, IEEE Intelligent Systems.
